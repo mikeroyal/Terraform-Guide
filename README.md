@@ -10,25 +10,25 @@
 
 # Table of Contents
 
-1. [Terraform Learning Resources](https://github.com/mikeroyal/Terraform-Guide#)
+1. [Terraform Learning Resources](https://github.com/mikeroyal/Terraform-Guide#terraform-learning-resources)
 
-2. [Terraform Tools and Services](https://github.com/mikeroyal/Terraform-Guide#)
+2. [Terraform Tools and Services](https://github.com/mikeroyal/Terraform-Guide#terraform-tools-and-services)
 
-3. [DevOps Tools Integration](https://github.com/mikeroyal/Terraform-Guide#)
+3. [DevOps Tools Integration](https://github.com/mikeroyal/Terraform-Guide#devops-tools-integration)
 
-4. [Kubernetes](https://github.com/mikeroyal/Terraform-Guide#)
+4. [Kubernetes](https://github.com/mikeroyal/Terraform-Guide#kubernetes)
 
-5. [Docker](https://github.com/mikeroyal/Terraform-Guide#)
+5. [Docker](https://github.com/mikeroyal/Terraform-Guide#docker)
 
-6. [Azure Development](https://github.com/mikeroyal/Terraform-Guide#)
+6. [Azure Development](https://github.com/mikeroyal/Terraform-Guide#azure-development)
 
-7. [AWS Development](https://github.com/mikeroyal/Terraform-Guide#)
+7. [AWS Development](https://github.com/mikeroyal/Terraform-Guide#aws-development)
 
-8. [Google Cloud Platform Development](https://github.com/mikeroyal/Terraform-Guide#)
+8. [Google Cloud Platform Development](https://github.com/mikeroyal/Terraform-Guide#google-cloud-platform-development)
 
-9. [VMware Development](https://github.com/mikeroyal/Terraform-Guide#)
+9. [VMware Development](https://github.com/mikeroyal/Terraform-Guide#vmware-development)
 
-10. [Oracle Cloud Development](https://github.com/mikeroyal/Terraform-Guide#)
+10. [Oracle Cloud Development](https://github.com/mikeroyal/Terraform-Guide#oracle-cloud-development)
 
 
 <p align="center">
