@@ -85,7 +85,7 @@
 [Terraform Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/terraform)
 
 # Terraform Tools and Services
-[Back to the Top](https://github.com/mikeroyal/Puppet-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Terraform-Guide#table-of-contents)
 
 [Terraform Enterprise](https://www.hashicorp.com/products/terraform/editions/enterprise) is our self-hosted distribution of Terraform Cloud. It offers enterprises a private instance of the Terraform Cloud application, with no resource limits and with additional enterprise-grade architectural features like audit logging and SAML single sign-on.
 
